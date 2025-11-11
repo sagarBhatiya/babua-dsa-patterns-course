@@ -49,11 +49,11 @@ This sheet is designed to help onboard new learners into the course.
 | 27  | 145. Binary Tree Postorder Traversal (Recursive)       | [🎥 Watch Video](https://www.youtube.com/watch?v=HU2xPg5lbs8&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=9)  | ✅      |
 | 28  | Binary Search-1-Theory                                 | [🎥 Watch Video](https://www.youtube.com/watch?v=bDwl6BMTQqc&list=PLVItHqpXY_DA6PffX2yw1l2wsDnGLbsLU)          | ✅      |
 | 29  | 704. Binary Search                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=vo92sw_qN_Q&list=PLVItHqpXY_DA6PffX2yw1l2wsDnGLbsLU&index=2)  | ✅      |
-| 30  | Sorting-1-Theory                                       | [🎥 Watch Video](https://www.youtube.com/watch?v=xk7O7jflrMo&list=PLVItHqpXY_DC71VlQBzG7bV3XDTbPjAmo)          | ☐      |
-| 31  | Comparison-Based Sort                                  | [🎥 Watch Video](https://www.youtube.com/watch?v=KRahIjlkQgI&list=PLVItHqpXY_DC71VlQBzG7bV3XDTbPjAmo&index=2)  | ☐      |
-| 32  | Recursion-1-Introduction                               | [🎥 Watch Video](https://www.youtube.com/watch?v=p37ycIwH32Q&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7)          | ☐      |
-| 33  | Recursion-2-344. Reverse String                        | [🎥 Watch Video](https://www.youtube.com/watch?v=4bn14L0NCeY&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=2)  | ☐      |
-| 34  | 1 Recursion Template to solve all problems             | [🎥 Watch Video](https://www.youtube.com/watch?v=N6DRtWQUin8&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=3)  | ☐      |
+| 30  | Sorting-1-Theory                                       | [🎥 Watch Video](https://www.youtube.com/watch?v=xk7O7jflrMo&list=PLVItHqpXY_DC71VlQBzG7bV3XDTbPjAmo)          | ✅      |
+| 31  | Comparison-Based Sort                                  | [🎥 Watch Video](https://www.youtube.com/watch?v=KRahIjlkQgI&list=PLVItHqpXY_DC71VlQBzG7bV3XDTbPjAmo&index=2)  | ✅      |
+| 32  | Recursion-1-Introduction                               | [🎥 Watch Video](https://www.youtube.com/watch?v=p37ycIwH32Q&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7)          | ✅      |
+| 33  | Recursion-2-344. Reverse String                        | [🎥 Watch Video](https://www.youtube.com/watch?v=4bn14L0NCeY&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=2)  | ✅      |
+| 34  | 1 Recursion Template to solve all problems             | [🎥 Watch Video](https://www.youtube.com/watch?v=N6DRtWQUin8&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=3)  | ✅      |
 | 35  | 24. Swap Nodes in Pairs                                | [🎥 Watch Video](https://www.youtube.com/watch?v=Nb-lNhA5mg8&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=4)  | ☐      |
 | 36  | Introduction to Stacks                                 | [🎥 Watch Video](https://www.youtube.com/watch?v=-hZJcd949C4&list=PLVItHqpXY_DDEczzeVj-iHsK9kVBDe4jX&index=2)  | ☐      |
 | 37  | 155. Min Stack                                         | [🎥 Watch Video](https://www.youtube.com/watch?v=K-_nLrXJ3AI&list=PLVItHqpXY_DDEczzeVj-iHsK9kVBDe4jX&index=3)  | ☐      |
