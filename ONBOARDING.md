@@ -57,8 +57,8 @@ This sheet is designed to help onboard new learners into the course.
 | 35  | 24. Swap Nodes in Pairs                                | [🎥 Watch Video](https://www.youtube.com/watch?v=Nb-lNhA5mg8&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7&index=4)  | ✅      |
 | 36  | Introduction to Stacks                                 | [🎥 Watch Video](https://www.youtube.com/watch?v=-hZJcd949C4&list=PLVItHqpXY_DDEczzeVj-iHsK9kVBDe4jX&index=2)  | ✅      |
 | 37  | 155. Min Stack                                         | [🎥 Watch Video](https://www.youtube.com/watch?v=K-_nLrXJ3AI&list=PLVItHqpXY_DDEczzeVj-iHsK9kVBDe4jX&index=3)  | ✅      |
-| 38  | Binary Search Tree - 1-Introduction                    | [🎥 Watch Video](https://www.youtube.com/watch?v=1lMmEPJBvsI&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=2)  | ☐      |
-| 39  | 700. Search in a Binary Search Tree                    | [🎥 Watch Video](https://www.youtube.com/watch?v=2udPES1G1KM&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=3)  | ☐      |
+| 38  | Binary Search Tree - 1-Introduction                    | [🎥 Watch Video](https://www.youtube.com/watch?v=1lMmEPJBvsI&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=2)  | ✅      |
+| 39  | 700. Search in a Binary Search Tree                    | [🎥 Watch Video](https://www.youtube.com/watch?v=2udPES1G1KM&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=3)  | ✅      |
 | 40  | What is Dynamic Programming???                         | [🎥 Watch Video](https://www.youtube.com/watch?v=yLMZcu3eesk&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=2)  | ☐      |
 | 41  | 💡 Top-Down vs Bottom-Up in Dynamic Programming (DP)   | [🎥 Watch Video](https://www.youtube.com/watch?v=425rDIfst8E&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=3)  | ☐      |
 | 42  | Identify DP Problems                                   | [🎥 Watch Video](https://www.youtube.com/watch?v=7-H4ij0MWTM&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=4)  | ☐      |
